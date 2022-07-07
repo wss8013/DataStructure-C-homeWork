@@ -1,1 +1,1 @@
-# DataStructure-C-homwWork
+# DataStructure-C-homeWork
